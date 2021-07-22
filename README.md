@@ -1,2 +1,2 @@
-# I'm still working on this readme
-#### wow
+# Welcome to my profile
+#### how tf do I use github markdown
